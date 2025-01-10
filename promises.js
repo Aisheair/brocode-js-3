@@ -67,18 +67,6 @@ walkDog().then(value => {console.log(value); return cleanKitchen()})
          .then(value => {console.log(value); console.log("u done with eberythimh!!!!!!!!")})
          .catch(error => console.error(error));
 
-
-
-
-
-
-
-
-
-
-
-
-
 // callback hell!!!!!
 // walkDog(() => {
 //     cleanKitchen(() => {
